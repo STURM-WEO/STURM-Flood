@@ -6,7 +6,6 @@ This repository hosts the code for the *STURM-Flood* dataset.
 Click on the image for an interactive map showing the distribution of Sentinel-1 and Sentinel-2 tiles.
 
 [![View the interactive map](https://github.com/STURM-WEO/STURM-Flood/blob/gh-pages/maps/static.png)](https://sturm-weo.github.io/STURM-Flood/maps/STURM-flood-tiles-map.html)
-<a href="https://sturm-weo.github.io/STURM-Flood/maps/STURM-flood-tiles-map.html" target="_blank">Map</a>
 
 
 # Funding
