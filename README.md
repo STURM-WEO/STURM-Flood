@@ -13,4 +13,8 @@ STURM is an EU-funded R&I project funded under the Marie Skłodowska-Curie Actio
 
 # License
 
-This book is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+The following data sources were used:
+- Copernicus EMS ([Manual](https://emergency.copernicus.eu/mapping/sites/default/files/files/JRCTechnicalReport_2020_Manual%20for%20Rapid%20Mapping%20Products_final.pdf))
+- Copernicus Sentinel-1 and Sentinel-2 ([License](https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice)).
