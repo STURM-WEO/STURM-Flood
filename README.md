@@ -2,6 +2,8 @@
 
 This repository hosts the code for the *STURM-Flood* dataset.
 
+The STURM-Flood dataset is a high-quality, open-access resource designed for training and evaluating deep learning models for flood extent mapping using Sentinel-1 and Sentinel-2 satellite imagery. The repository is hosted at Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12748983.svg)](https://doi.org/10.5281/zenodo.12748983) and provides 21,602 Sentinel-1 tiles and 2,675 Sentinel-2 tiles, each of size 128 × 128 pixels at a resolution of 10 meters, along with corresponding water masks covering 60 flood events globally. We invite researchers to utilize this dataset for advancing flood mapping techniques in disaster management. For more information about the methodology and results, please refer to our study: [STURM-Flood: a curated dataset for deep learning-basedflood extent mapping leveraging Sentinel-1 and Sentinel-2 imagery](https://doi.org/10.1080/20964471.2025.2458714).
+
 # Tiles Map
 Click on the image for an interactive map showing the distribution of Sentinel-1 and Sentinel-2 tiles.
 
