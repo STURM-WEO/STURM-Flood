@@ -37,23 +37,14 @@ We provide a Jupyter Notebook for running inference with the pretrained U-Net mo
 ## Requirements
 
 - Python ≥ 3.8
-
 - TensorFlow
-
 - NumPy
-
 - Pandas
-
 - Matplotlib
-
 - Rasterio
-
 - Scikit-learn
-
 - requests
-
 - tqdm
-
 - IPython
 
 You can install the necessary libraries using `pip install -r requirements.txt`.
