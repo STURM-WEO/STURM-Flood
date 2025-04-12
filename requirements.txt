@@ -1,0 +1,7 @@
+matplotlib
+requests
+rasterio
+scikit-learn
+tensorflow
+tensorflow-io
+tqdm
