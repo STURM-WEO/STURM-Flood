@@ -33,31 +33,17 @@ We provide a Jupyter Notebook for running inference with the pretrained U-Net mo
 | **Sentinel-2 Model** | [10.5281/zenodo.15189633](https://doi.org/10.5281/zenodo.15189633) |
 | **Published paper**  | [Big Earth Data (2025)](https://doi.org/10.1080/20964471.2025.2458714) |
 
-## 📘 Notebook
-
-Download the notebook here: [`inference_sturm_flood_clean.ipynb`](inference_sturm_flood_clean.ipynb)
-
-
 ## Requirements
 
 - Python ≥ 3.8
-
 - TensorFlow
-
 - NumPy
-
 - Pandas
-
 - Matplotlib
-
 - Rasterio
-
 - Scikit-learn
-
 - requests
-
 - tqdm
-
 - IPython
 
 You can install the necessary libraries using `pip install -r requirements.txt`.
